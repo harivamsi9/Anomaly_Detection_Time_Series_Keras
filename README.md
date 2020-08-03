@@ -1,5 +1,4 @@
 # Anomaly_Detection_Time_Series_Keras
-
 Building an LSTM Autoencoder in Keras, Detecting the anomalies with Autoencoders in time series data, and Creating interactive charts and plots with Plotly and Seaborn.
 
 ## Steps:
